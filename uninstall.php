@@ -14,7 +14,7 @@
 * - Repeat things for multisite. Once for a single site in the network, once sitewide.
 *
 * This file may be updated more in future version of the Boilerplate;
-however, this is the
+* however, this is the
 * general skeleton and outline for how the file should work.
 *
 * For more information, see the following discussion:
