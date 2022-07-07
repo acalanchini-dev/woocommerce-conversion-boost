@@ -1,6 +1,17 @@
 <?php
 
 /**
+* Plugin Name:       Woocommerce Conversions Boost
+* Plugin URI:        dvg.com
+* Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+* Version:           1.0.0
+* Author:            Alessio Calanchini
+* Author URI:        ac.com
+* License:           GPL-2.0+
+* License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+* Text Domain:       wccb
+* Domain Path:       /languages
+*
 * The plugin bootstrap file
 *
 * This file is read by WordPress to generate the plugin information in the plugin
@@ -8,22 +19,11 @@
 * registers the activation and deactivation functions, and defines a function
 * that starts the plugin.
 * @wordpress-plugin
-* Plugin Name:       Woocommerce Conversions Boost
-* Plugin URI:        dvg.com
-* Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.0.0
- * Author:            Alessio Calanchini
- * Author URI:        ac.com
- * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       wccb
- * Domain Path:       /languages
-  *
- * @link              ac.com
- * @since             1.0.0
- * @package           Wccb
- *
- */
+* @link              ac.com
+* @since             1.0.0
+* @package           Wccb
+*
+*/
 
 // If this file is called directly, abort.
 if ( ! defined( 'WPINC' ) ) {
